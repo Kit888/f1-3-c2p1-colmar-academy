@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="28px" viewBox="0 0 30 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_online</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="OPt-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="prog2_pro3_Mobile-Portrait_opt2-Copy-2" transform="translate(-185.000000, -17.000000)" fill="#000000">
+            <g id="nav">
+                <g id="Group-6" filter="url(#filter-1)">
+                    <g id="ic_online" transform="translate(189.000000, 19.000000)">
+                        <path d="M20,12 L2,12 L2,2 L20,2 L20,12 Z M20,0 L2,0 C0.89,0 0,0.89 0,2 L0,14 C2.22044605e-16,15.1045695 0.8954305,16 2,16 L9,16 L7,19 L7,20 L15,20 L15,19 L13,16 L20,16 C21.1045695,16 22,15.1045695 22,14 L22,2 C22,0.89 21.1,0 20,0 Z" id="Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
+
+<!--
+
+<svg width="128px" height="128px" viewBox="322 214 128 128" version="1.1"; xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch - http://www.sketchapp.com -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <rect id="Rectangle" stroke="none" fill="#6DD400" fill-rule="evenodd" x="322" y="214" width="128" height="128" rx="5"></rect>
+</svg>
+
+<!--
+<style type="text/css">a.gumroad-button { background-color: white !important; background-image: url("https://gumroad.com/button/button_bar.jpg") !important; background-repeat: repeat-x !important; border-radius: 4px !important; box-shadow: rgba(0, 0, 0, .4) 0 0 2px !important; color: #999 !important; display: inline-block !important; font-family: -apple-system, ".SFNSDisplay-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif !important; font-size: 16px !important; font-style: normal !important; font-weight: 500 !important; line-height: 50px !important; padding: 0 15px !important; text-shadow: none !important; text-decoration: none !important; } .gumroad-button-logo { background-image: url("https://gumroad.com/button/button_logo.png") !important; background-size: cover !important; height: 17px !important; width: 16px !important; display: inline-block !important; margin-bottom: -3px !important; margin-right: 15px !important; } .gumroad-loading-indicator { background: white; border-radius: 50%; box-shadow: 0 1px 2px rgba(0, 0, 0, .1); box-sizing: border-box; display: none; height: 60px; left: 50% !important; margin-left: -30px !important; margin-top: -30px !important; padding: 10px; position: fixed; top: 50% !important; width: 60px; z-index: 99997; } .gumroad-loading-indicator i { background: url("https://gumroad.com/js/loading-rainbow.svg"); height: 40px; width: 40px; display: inline-block; background-size: contain; animation: gumroad-spin 1.5s infinite linear; } .gumroad-overlay-iframe { position: fixed !important; overflow: hidden !important; z-index: 99998 !important; top: 0 !important; right: 0 !important; width: 0; height: 0; border: none !important; margin: 0 !important; padding: 0 !important; zoom: 1; } @keyframes gumroad-spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(359deg); } } </style>
